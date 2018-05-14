@@ -1,0 +1,7 @@
+.DS_Store
+/logs
+.env
+.data/
+.es-config/
+.es-data/
+/nginx/vhost/*.conf
